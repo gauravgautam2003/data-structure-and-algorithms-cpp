@@ -1,0 +1,48 @@
+# DSA Course Interview Questions
+
+Company: Amazon, Microsoft, Google, Adobe, Netflix, and other major tech companies.
+
+This repository contains standard data structure and algorithm problems organized by folder. Each question is written as a C++ implementation, and detailed algorithm descriptions are available inside the `README` folder.
+
+## Sections
+
+- `arrays/` — Array problems and common interview techniques.
+- `searching/` — Binary search and search-based problems.
+- `problems/` — Bitwise operations, base conversion, number properties, and numeric problems.
+
+## Array Questions
+
+1. `arrays/findAllDuplicate.cpp` — Find all duplicate values in an array using brute force, sorting, and index marking. (Company tags: Amazon, Microsoft, Google)
+2. `arrays/findDuplicate.cpp` — Find the single duplicate number using XOR cancellation. (Company tags: Amazon, Adobe, Microsoft)
+3. `arrays/findUnique.cpp` — Find the unique element when every other element appears twice using XOR. (Company tags: Google, Facebook, Uber)
+4. `arrays/intersectionOfTwo.cpp` — Compute the intersection of two arrays with brute force and two-pointer optimized methods. (Company tags: Amazon, Microsoft, Google)
+5. `arrays/min_max.cpp` — Find the minimum and maximum values in an array with one scan. (Company tags: Apple, Amazon, Microsoft)
+6. `arrays/reverseArray.cpp` — Reverse an array in place using a two-pointer swap. (Company tags: Google, Microsoft, Adobe)
+7. `arrays/swapAlternate.cpp` — Swap adjacent array elements pairwise. (Company tags: Amazon, Accenture)
+8. `arrays/uniqueNumber.cpp` — Find the single unique number from a list where other values repeat. (Company tags: Google, Microsoft)
+
+## Searching Questions
+
+1. `searching/binarySearch.cpp` — Standard binary search in a sorted array. (Company tags: Google, Microsoft, Amazon)
+2. `searching/linearSearch.cpp` — Basic linear scan search in an unsorted array. (Company tags: Amazon, Infosys)
+3. `searching/bookAllocation.cpp` — Binary search on the answer space to allocate pages with minimum maximum load. (Company tags: Google, Amazon, Morgan Stanley)
+4. `searching/findFirstAndLastPosition.cpp` — Find the first and last occurrence of a target with two modified binary searches. (Company tags: Microsoft, Google)
+5. `searching/peakIndexInAMountainArray.cpp` — Find the peak index in a mountain array using binary search. (Company tags: Amazon, Google)
+6. `searching/pivotInArray.cpp` — Find the pivot index in a rotated sorted array. (Company tags: Amazon, Microsoft)
+7. `searching/searchInRotatedSortedArray.cpp` — Search for a target in a rotated sorted array by splitting at the pivot. (Company tags: Google, Microsoft, Amazon)
+8. `searching/squareRootOfNumUsingBinarySearch.cpp` — Compute the integer square root using binary search and extend precision. (Company tags: Google, Adobe)
+
+## Problem Questions
+
+1. `problems/binarytodecimal.cpp` — Convert a binary representation to decimal using bit processing. (Company tags: Google, Microsoft)
+2. `problems/decimaltobinary.cpp` — Convert a decimal number to binary using repeated division and remainders. (Company tags: Amazon, Apple)
+3. `problems/complementOfBase10Element.cpp` — Compute the bitwise complement of a decimal number limited to its binary length. (Company tags: Microsoft, Amazon)
+4. `problems/powerOfTwo.cpp` — Check whether a number is a power of two by repeated multiplication. (Company tags: Google, Microsoft)
+5. `problems/powerOfThree.cpp` — Check whether a number is a power of three by repeated multiplication. (Company tags: Google, Flipkart)
+6. `problems/powerOfFour.cpp` — Check whether a number is a power of four by repeated multiplication. (Company tags: Microsoft, Amazon)
+7. `problems/reverseInteger.cpp` — Reverse digits of an integer with overflow checks. (Company tags: Google, Apple)
+
+## How to use
+
+- Open the README inside the `README` folder for algorithm descriptions and explanation of each question.
+- Use the root README to find the relevant category and company tags for each problem.
