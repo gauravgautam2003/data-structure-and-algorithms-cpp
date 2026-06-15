@@ -8,6 +8,7 @@ This repository contains standard data structure and algorithm problems organize
 
 - `arrays/` — Array problems and common interview techniques.
 - `searching/` — Binary search and search-based problems.
+- `sorting/` — Basic sorting algorithms and classic order algorithms.
 - `problems/` — Bitwise operations, base conversion, number properties, and numeric problems.
 
 ## Array Questions

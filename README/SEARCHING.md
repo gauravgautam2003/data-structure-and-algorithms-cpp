@@ -234,7 +234,97 @@ Complexity:
 - Time: O(log n)
 - Space: O(1)
 
-## 8. squareRootOfNumUsingBinarySearch.cpp
+## 8. pointerPartitionProblem.cpp
+
+Problem:
+- Partition an array into `k` subarrays so that the maximum subarray sum is minimized.
+
+Steps:
+1. Compute `start = 0` and `end = sum(arr)`.
+2. While `start <= end`, choose `mid` as the candidate maximum subarray sum.
+3. Use a helper to check if the array can be split into at most `k` parts with each part sum <= `mid`.
+4. If possible, record `mid` and try smaller values to minimize the maximum sum.
+5. If not possible, increase `start`.
+
+Pseudocode:
+```
+function canPartition(arr, k, maxSum):
+  count = 1
+  currentSum = 0
+  for value in arr:
+    if currentSum + value <= maxSum:
+      currentSum += value
+    else:
+      count += 1
+      if count > k or value > maxSum:
+        return false
+      currentSum = value
+  return true
+
+function partitionArray(arr, k):
+  start = 0
+  end = sum(arr)
+  answer = -1
+  while start <= end:
+    mid = start + (end - start) // 2
+    if canPartition(arr, k, mid):
+      answer = mid
+      end = mid - 1
+    else:
+      start = mid + 1
+  return answer
+```
+
+Complexity:
+- Time: O(n log S), where S is the sum of array values.
+- Space: O(1)
+
+## 9. aggresiveCows.cpp
+
+Problem:
+- Place `k` cows in stalls to maximize the minimum distance between any two cows.
+
+Steps:
+1. Sort stall positions.
+2. Set `start = 0` and `end = max(stalls)`.
+3. While `start <= end`, choose `mid` as the candidate minimum distance.
+4. Use a greedy placement helper to place cows with at least `mid` spacing.
+5. If placement is possible, move `start` up to try a larger minimum distance.
+6. If not, move `end` down.
+
+Pseudocode:
+```
+function canPlaceCows(stalls, k, minDist):
+  count = 1
+  lastPos = stalls[0]
+  for i from 1 to stalls.length - 1:
+    if stalls[i] - lastPos >= minDist:
+      count += 1
+      lastPos = stalls[i]
+      if count == k:
+        return true
+  return false
+
+function aggressiveCows(stalls, k):
+  sort(stalls)
+  start = 0
+  end = stalls[last index]
+  answer = -1
+  while start <= end:
+    mid = start + (end - start) // 2
+    if canPlaceCows(stalls, k, mid):
+      answer = mid
+      start = mid + 1
+    else:
+      end = mid - 1
+  return answer
+```
+
+Complexity:
+- Time: O(n log n + n log D), where D is the value range of stall positions.
+- Space: O(1)
+
+## 10. squareRootOfNumUsingBinarySearch.cpp
 
 Problem:
 - Find the square root of a number using binary search, then improve precision.
