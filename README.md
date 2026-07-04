@@ -8,6 +8,7 @@ This repository contains standard data structure and algorithm problems organize
 
 - `arrays/` — Array problems and common interview techniques.
 - `searching/` — Binary search and search-based problems.
+- `sorting/` — Basic sorting algorithms and classic order algorithms.
 - `problems/` — Bitwise operations, base conversion, number properties, and numeric problems.
 
 ## Array Questions
@@ -30,7 +31,15 @@ This repository contains standard data structure and algorithm problems organize
 5. `searching/peakIndexInAMountainArray.cpp` — Find the peak index in a mountain array using binary search. (Company tags: Amazon, Google)
 6. `searching/pivotInArray.cpp` — Find the pivot index in a rotated sorted array. (Company tags: Amazon, Microsoft)
 7. `searching/searchInRotatedSortedArray.cpp` — Search for a target in a rotated sorted array by splitting at the pivot. (Company tags: Google, Microsoft, Amazon)
-8. `searching/squareRootOfNumUsingBinarySearch.cpp` — Compute the integer square root using binary search and extend precision. (Company tags: Google, Adobe)
+8. `searching/pointerPartitionProblem.cpp` — Partition an array into k parts to minimize the maximum subarray sum. (Company tags: Amazon, Microsoft, Goldman Sachs)
+9. `searching/aggresiveCows.cpp` — Place cows in stalls to maximize the minimum distance using binary search on the answer. (Company tags: Google, Amazon, OYO)
+10. `searching/squareRootOfNumUsingBinarySearch.cpp` — Compute the integer square root using binary search and extend precision. (Company tags: Google, Adobe)
+
+## Sorting Questions
+
+1. `sorting/bubbleSort.cpp` — Sort an array using bubble sort with adjacent swapping. (Company tags: Amazon, Microsoft)
+2. `sorting/insertionSort.cpp` — Sort an array using insertion sort by inserting each element into the sorted left side. (Company tags: Google, Adobe)
+3. `sorting/selectionSort.cpp` — Sort an array by selecting the minimum element and placing it in the sorted position. (Company tags: Microsoft, Amazon)
 
 ## Problem Questions
 
