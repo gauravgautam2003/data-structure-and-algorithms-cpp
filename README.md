@@ -63,13 +63,20 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
