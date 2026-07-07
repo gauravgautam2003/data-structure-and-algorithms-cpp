@@ -61,9 +61,15 @@ This repository contains standard data structure and algorithm problems organize
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
