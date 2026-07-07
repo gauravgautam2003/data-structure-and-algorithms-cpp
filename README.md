@@ -55,3 +55,15 @@ This repository contains standard data structure and algorithm problems organize
 
 - Open the README inside the `README` folder for algorithm descriptions and explanation of each question.
 - Use the root README to find the relevant category and company tags for each problem.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
