@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "leetcode": {
         "easy": 4,
@@ -54,3 +55,6 @@
         "solved": 4
     }
 }
+=======
+{"leetcode":{"easy":5,"hard":0,"medium":0,"shas":{"0026-remove-duplicates-from-sorted-array":{"0026-remove-duplicates-from-sorted-array.cpp":"cd1fc1c279b0da2eb47ec0674163739eaa78a179","README.md":"50598d2b1a371c8417c2680746f65f63998a358c"},"0027-remove-element":{"0027-remove-element.cpp":"8d17a46a75dd74933fab0e034ba0f6a87db14bb9","README.md":"1ab688a312e16f9d8c94dc797e0bcfeea600bcec"},"0028-find-the-index-of-the-first-occurrence-in-a-string":{"0028-find-the-index-of-the-first-occurrence-in-a-string.cpp":"afc086c6a6aa9d24c1f9c6416dcafb4b2188794b","README.md":"60a38c1aa8acb919956578f278c9060fb7db97b8","difficulty":"easy"},"0125-valid-palindrome":{"0125-valid-palindrome.cpp":"96da25affce344f7857b01cc7464df86d2bb22b2","README.md":"213d38e6bd9704d91b8759c7b29ebd97622cca49","difficulty":"easy"},"0168-excel-sheet-column-title":{"0168-excel-sheet-column-title.cpp":"82a57c827e02d28c0b64b1c43f75bc025fc6d236","README.md":"82a073bb1341a646fe772a9dee7f27a1d3619a9d","difficulty":"easy"},"0189-rotate-array":{"0189-rotate-array.cpp":"9e96db0d1bfa54bb8090fa8d9c8402a90916d62d","README.md":"b710072ecd8b8c5020863cf6ed6cb567a8d0c8f7"},"0219-contains-duplicate-ii":{"0219-contains-duplicate-ii.cpp":"26d9fb8ba5aa923b6a5180d6449e1251736944cb","README.md":"e77f50a607c80d56d077b24b558618c47cf05a21"},"1752-check-if-array-is-sorted-and-rotated":{"1752-check-if-array-is-sorted-and-rotated.cpp":"a5df989f394104809fd044491233a02e4d1e2a75","README.md":"14be98a0ba2cd0c4f14e9e73f7a203c1d82e384e"},"README.md":{"":"6cc55e690fc5dd26597d4887786df4bafd27c491"},"stats.json":{"":"ba6866c6c1b45c0ba3c10a73f61e56ca22d9a464"},"0344-reverse-string":{"0344-reverse-string.cpp":"2ace1673b068a60b01cc2227190e353da99e2859","README.md":"cb0dd646b4e63f8211c135fea3209d7e716ed692","difficulty":"easy"},"0171-excel-sheet-column-number":{"README.md":"7d40e1e18dc501fa277cf2119d924710a47f82aa","difficulty":"easy"}},"solved":5}}
+>>>>>>> 8ab1116d0a305f90888443f69bcbb3775335c7e2
