@@ -64,6 +64,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,8 @@ This repository contains standard data structure and algorithm problems organize
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -81,4 +84,12 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
