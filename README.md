@@ -65,6 +65,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -92,4 +94,12 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
