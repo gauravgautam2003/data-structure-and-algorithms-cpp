@@ -86,6 +86,7 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +103,8 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
