@@ -74,6 +74,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -87,6 +88,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +114,8 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
