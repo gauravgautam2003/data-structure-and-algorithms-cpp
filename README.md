@@ -63,6 +63,7 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
@@ -90,6 +91,7 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
@@ -107,6 +109,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
