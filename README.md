@@ -94,6 +94,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
@@ -131,9 +132,11 @@ This repository contains standard data structure and algorithm problems organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
