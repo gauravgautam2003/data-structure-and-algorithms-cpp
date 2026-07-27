@@ -119,11 +119,13 @@ This repository contains standard data structure and algorithm problems organize
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
