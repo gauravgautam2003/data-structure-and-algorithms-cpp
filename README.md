@@ -77,6 +77,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
@@ -115,6 +116,7 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -141,4 +143,12 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0326-power-of-three](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
