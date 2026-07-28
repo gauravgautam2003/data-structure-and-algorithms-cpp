@@ -92,6 +92,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
@@ -156,9 +157,11 @@ This repository contains standard data structure and algorithm problems organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
