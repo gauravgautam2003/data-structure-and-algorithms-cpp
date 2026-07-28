@@ -63,8 +63,11 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -73,7 +76,14 @@ This repository contains standard data structure and algorithm problems organize
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -84,6 +94,14 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -91,5 +109,46 @@ This repository contains standard data structure and algorithm problems organize
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0342-power-of-four) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
