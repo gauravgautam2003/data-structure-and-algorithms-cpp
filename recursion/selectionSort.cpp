@@ -15,9 +15,7 @@ int selectionSort(int *arr, int size) {
     }
 
     // swap
-    int temp = arr[maxIndex];
-    arr[maxIndex] = arr[size - 1]; 
-    arr[size - 1] = temp; 
+    swap(arr[maxIndex], arr[size - 1]);
 
 
     // recursive call
