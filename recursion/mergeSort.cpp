@@ -29,7 +29,7 @@ void merge(int *arr, int start, int end) {
     int index1 = 0;
     int index2 = 0;
     mainArrayIndex = start;
-    
+
     while(index1 < len1 && index2 < len2) {
         if(first[index1] < second[index2]) {
             arr[mainArrayIndex] = first[index1];
@@ -56,6 +56,9 @@ void merge(int *arr, int start, int end) {
         mainArrayIndex++;
         index2++;
     }
+
+    delete []first;
+    delete []second;
 }
 
 void mergeSort(int *arr, int start, int end) {
