@@ -72,6 +72,7 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
@@ -119,6 +121,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
