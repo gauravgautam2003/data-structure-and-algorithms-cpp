@@ -71,6 +71,7 @@ This repository contains standard data structure and algorithm problems organize
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
