@@ -71,6 +71,7 @@ This repository contains standard data structure and algorithm problems organize
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
@@ -117,6 +118,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
@@ -164,4 +166,8 @@ This repository contains standard data structure and algorithm problems organize
 | ------- |
 | [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
