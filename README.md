@@ -75,6 +75,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
@@ -111,6 +112,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -163,6 +165,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -174,4 +177,8 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
