@@ -108,6 +108,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -138,6 +139,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0278-first-bad-version](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
