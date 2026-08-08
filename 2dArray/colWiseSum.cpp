@@ -1,5 +1,4 @@
 #include<iostream>
-
 using namespace std;
 
 int printArray(int arr[][3], int row, int col) {
