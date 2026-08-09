@@ -79,6 +79,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## Sliding Window
