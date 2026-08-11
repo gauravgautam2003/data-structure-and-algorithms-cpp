@@ -75,6 +75,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0006-zigzag-conversion](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
@@ -171,6 +172,7 @@ This repository contains standard data structure and algorithm problems organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0392-is-subsequence) |
@@ -184,8 +186,10 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
