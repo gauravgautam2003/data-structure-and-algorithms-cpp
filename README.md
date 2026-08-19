@@ -66,6 +66,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## String
@@ -74,14 +75,17 @@ This repository contains standard data structure and algorithm problems organize
 | [0006-zigzag-conversion](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0415-add-strings) |
@@ -127,6 +131,7 @@ This repository contains standard data structure and algorithm problems organize
 | [0012-integer-to-roman](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -167,8 +172,10 @@ This repository contains standard data structure and algorithm problems organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -179,8 +186,10 @@ This repository contains standard data structure and algorithm problems organize
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauravgautam2003/data-structure-and-algorithms-cpp/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
