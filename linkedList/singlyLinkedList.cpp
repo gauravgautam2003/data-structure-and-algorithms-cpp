@@ -115,8 +115,14 @@ int main() {
     insertAtEnding(tail, 12);
     print(head);
     
+    cout << "head " << head -> data << endl;    
+    cout << "tail " << tail -> data << endl;  
+    
     insertAtEnding(tail, 15);
     print(head);
+    
+    cout << "head " << head -> data << endl;    
+    cout << "tail " << tail -> data << endl;  
 
     insertAtPosition(tail, head,3, 22);
     print(head);
