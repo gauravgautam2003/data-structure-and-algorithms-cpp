@@ -147,68 +147,62 @@ int main() {
     Node* head = NULL;
     Node* tail = NULL;
 
+    while(true) {
+        cout << "1. Insert at head" << endl;
+        cout << "2. Insert at tail" << endl;
+        cout << "3. Insert at position" << endl;
+        cout << "4. Delete node" << endl;
+        cout << "5. Print list" << endl;
+        cout << "6. Get length of list" << endl;
+        cout << "7. Exit" << endl;
 
-    insertAtHead(tail, head, 11);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
+        int choice;
+        cin >> choice;
 
-    insertAtHead(tail, head, 12);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtHead(tail, head, 13);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtTail(tail,head, 14);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtTail(tail,head, 15);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtTail(tail,head, 16);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtPosition(tail, head,3, 22);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtPosition(tail, head,1, 25);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    insertAtPosition(tail, head,5, 45);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    deleteNode(1, head, tail);
-    print(head);
-
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-
-    getLength(head);
+        switch(choice) {
+            case 1: {
+                int data;
+                cout << "Enter data to insert at head: ";
+                cin >> data;
+                insertAtHead(tail, head, data);
+                break;
+            }
+            case 2: {
+                int data;
+                cout << "Enter data to insert at tail: ";
+                cin >> data;
+                insertAtTail(tail, head, data);
+                break;
+            }
+            case 3: {
+                int position, data;
+                cout << "Enter position and data to insert: ";
+                cin >> position >> data;
+                insertAtPosition(tail, head, position, data);
+                break;
+            }
+            case 4: {
+                int position;
+                cout << "Enter position to delete node: ";
+                cin >> position;
+                deleteNode(position, head, tail);
+                break;
+            }
+            case 5: {
+                print(head);
+                break;
+            }
+            case 6: {
+                getLength(head);
+                break;
+            }
+            case 7: {
+                return 0; // Exit the program
+            }
+            default:
+                cout << "Invalid choice. Please try again." << endl;
+        }
+    }
 
     return 0;
 }

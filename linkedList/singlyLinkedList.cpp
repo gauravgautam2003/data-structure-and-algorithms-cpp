@@ -110,31 +110,58 @@ int main() {
     Node* node1 = new Node(10);
     Node* head = node1;
     Node* tail = node1;
-    print(head);
 
-    insertAtEnding(tail, 12);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-    
-    insertAtEnding(tail, 15);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
+    while(true) {
+        cout << "1. Insert at head" << endl;
+        cout << "2. Insert at tail" << endl;
+        cout << "3. Insert at position" << endl;
+        cout << "4. Delete node" << endl;
+        cout << "5. Print list" << endl;
+        cout << "6. Exit" << endl;
 
-    insertAtPosition(tail, head,3, 22);
-    print(head);
+        int choice;
+        cin >> choice;
 
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl;  
-    
-    deleteNode(4, head, tail);
-    print(head);
-    
-    cout << "head " << head -> data << endl;    
-    cout << "tail " << tail -> data << endl; 
+        switch(choice) {
+            case 1: {
+                int data;
+                cout << "Enter data to insert at head: ";
+                cin >> data;
+                insertAtStarting(head, data);
+                break;
+            }
+            case 2: {
+                int data;
+                cout << "Enter data to insert at tail: ";
+                cin >> data;
+                insertAtEnding(tail, data);
+                break;
+            }
+            case 3: {
+                int position, data;
+                cout << "Enter position and data to insert: ";
+                cin >> position >> data;
+                insertAtPosition(tail, head, position, data);
+                break;
+            }
+            case 4: {
+                int position;
+                cout << "Enter position to delete node: ";
+                cin >> position;
+                deleteNode(position, head, tail);
+                break;
+            }
+            case 5: {
+                print(head);
+                break;
+            }
+            case 6: {
+                return 0; // Exit the program
+            }
+            default:
+                cout << "Invalid choice. Please try again." << endl;
+        }
+    }
 
     return 0;
 
