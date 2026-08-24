@@ -31,7 +31,7 @@ void getLength(Node* &head) {
         temp = temp -> next;
     }
 
-    cout << "length is remaining : " << len;
+    cout << "length is remaining : " << len << endl;
 }
 
 void insertAtHead(Node* &tail, Node* &head, int data) {
