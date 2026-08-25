@@ -95,6 +95,27 @@ void deleteNode(int position, Node* &head, Node* &tail) {
     }
 }
 
+Node* reverseLinkedList(Node* &head) {
+
+    // check list is empty or single node
+    if(head == NULL || head -> next == NULL) {
+        return head;
+    }
+
+    Node* prev = NULL;
+    Node* curr = head;
+    Node* forward = NULL;
+
+    while(curr != NULL) {
+        forward = curr -> next;
+        curr -> next = prev;
+        prev = curr;
+        curr = forward;
+    }
+
+    return prev;
+}
+
 void print(Node* &head) {
     Node* temp = head;
 
@@ -114,9 +135,10 @@ int main() {
         cout << "1. Insert at head" << endl;
         cout << "2. Insert at tail" << endl;
         cout << "3. Insert at position" << endl;
-        cout << "4. Delete node" << endl;
-        cout << "5. Print list" << endl;
-        cout << "6. Exit" << endl;
+        cout << "4. Reverse list" << endl;
+        cout << "5. Delete node" << endl;
+        cout << "6. Print list" << endl;
+        cout << "7. Exit" << endl;
 
         int choice;
         cin >> choice;
@@ -144,17 +166,22 @@ int main() {
                 break;
             }
             case 4: {
+                cout << "Reversing the linked list..." << endl;
+                head = reverseLinkedList(head);
+                break;
+            }
+            case 5: {
                 int position;
                 cout << "Enter position to delete node: ";
                 cin >> position;
                 deleteNode(position, head, tail);
                 break;
             }
-            case 5: {
+            case 6: {
                 print(head);
                 break;
             }
-            case 6: {
+            case 7: {
                 return 0; // Exit the program
             }
             default:
