@@ -131,6 +131,34 @@ Node* floydDetectLoop(Node* &head) {
 
 }
 
+Node* getStartingNode(Node* &head) {
+
+    if(head == NULL) return NULL;
+
+    Node* intersection = floydDetectLoop(head);
+    Node* slow = head;
+
+    while(slow != intersection) {
+        slow = slow -> next;
+        intersection = intersection -> next;
+    }
+
+    return slow;
+}
+
+void removeLoop(Node* &head) {
+    if(head == NULL) return;
+
+    Node* startingLopp = getStartingNode(head);
+    Node* temp = startingLopp;
+
+    while(temp -> next != startingLopp) {
+        temp = temp -> next;
+    }
+
+    temp -> next = NULL;
+}
+
 void print(Node* &tail) {
     Node* temp = tail;
 
@@ -192,7 +220,7 @@ int main() {
         }
     }
 
-    tail -> next = head -> next -> next;
+    tail -> next = head -> next;
 
     if(detectLoop(head)) {
         cout << "Linked List has a loop" << endl;
@@ -205,5 +233,12 @@ int main() {
     }else {
         cout << "Linked List does not have a loop" << endl;
     }
+
+    Node* loop = getStartingNode(head);
+    cout << "Loop starting at : " << loop -> data << endl;
+
+    removeLoop(head);
+    print(head);
+    
     return 0;
 }
